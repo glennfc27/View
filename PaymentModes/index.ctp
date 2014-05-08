@@ -1,0 +1,1 @@
+<h1>Index Payment Mode</h1>
